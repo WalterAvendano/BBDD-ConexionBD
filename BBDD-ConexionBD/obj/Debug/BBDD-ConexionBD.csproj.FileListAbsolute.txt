@@ -1,0 +1,15 @@
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\bin\Debug\BBDD-ConexionBD.exe.config
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\bin\Debug\BBDD-ConexionBD.exe
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\bin\Debug\BBDD-ConexionBD.pdb
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD-ConexionBD.csproj.AssemblyReference.cache
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\MainWindow.g.cs
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\App.g.cs
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD-ConexionBD_MarkupCompile.cache
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD-ConexionBD_MarkupCompile.lref
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\MainWindow.baml
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD-ConexionBD.g.resources
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD_ConexionBD.Properties.Resources.resources
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD-ConexionBD.csproj.GenerateResource.cache
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD-ConexionBD.csproj.CoreCompileInputs.cache
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD-ConexionBD.exe
+C:\Desarrollos\BBDD-ConexionBD\BBDD-ConexionBD\obj\Debug\BBDD-ConexionBD.pdb
